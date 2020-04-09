@@ -1,0 +1,28 @@
+.owl-carousel {
+            width: 100%;
+            display: flex;
+            flex-flow: row;
+            justify-content: space-between;
+            align-items: center;
+            margin: auto;
+        }
+body {
+            font-family: "Lato", sans-serif;
+        }
+
+
+/* menu vertical admin */
+
+
+.sidebar-nav{list-style:none; }
+.sub-menu{padding:0; display:none; list-style:none;}
+.sidebar-nav li.active ul{display:block;}
+.sideAdmin a{
+    color: white;
+}
+.sideAdmin a:hover{
+    background-color: white;
+    color: #D1254A;
+}
+
+/* fin menu vertical admin */
