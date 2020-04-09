@@ -1,5 +1,5 @@
 <section class="mt-1 mb-1 p-2">
-    <h2 class="font-weight-bold text-center m-0 ">Nous Contacter</h2>
+   <!-- <h2 class="font-weight-bold text-center m-0 ">Nous Contacter</h2> -->
     <p class="text-center w-responsive mx-auto ">Avez-vous une question? N'hésitez pas à nous contacter directement.</p>
 
     <div class="row w-100">
