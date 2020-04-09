@@ -45,11 +45,9 @@
                     <a class="nav-link text-light" href="index.php?page=contact">CONTACT</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" href="index.php?page=connexion_apprenant">ESPACE APPRENANT</a>
+                    <a class="nav-link text-light" href="index.php?page=connexion_apprenant">CONNEXION</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link text-light" href="index.php?page=connexion">ESPACE ADMIN</a>
-                </li>
+                
             </ul>
 
             <ul class="navbar-nav">
